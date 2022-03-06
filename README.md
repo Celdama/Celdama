@@ -17,7 +17,7 @@
 
 Hey there,
 
-I'm Celdama, a self-taught front-end Web Developer based in North of France, Who is passionate about building user-friendly, easy-to-use website or single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning Next.js, and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about **Anything Web Development Related**.
+I'm Celdama, a self-taught front-end Web Developer based in North of France, Who is passionate about building user-friendly, easy-to-use website or single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning Next.js, and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about **Anything Web Development Related**.<br/>
 I'm looking for a front-end junior job.
 
 Want to know more about me? [Check out my twitter](https://twitter.com/CeldamaDev)
