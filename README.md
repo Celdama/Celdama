@@ -24,33 +24,52 @@ Want to know more about me? [Check out my twitter](https://twitter.com/CeldamaDe
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a><br/>
+   <a href="https://sass-lang.com/" target="_blank"> 
+    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/> 
+  </a><br/>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img src="https://imgs.search.brave.com/oH_ZVopOI99gXHW0pzt1NWajai2cViXIdmyMO9hk_z4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL3Jl/ZHV4anMvcmVkdXgv/bWFzdGVyL2xvZ28v/bG9nby10aXRsZS1k/YXJrLnBuZw" alt="redux" width="40" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://imgs.search.brave.com/OMIsJfsgl9KOL-UWXIVkLLAQ-IUNkU328XUl1NEKcoQ/rs:fit:300:181:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL04vbmV4dC1q/cy1sb2dvLTc5MjlC/Q0QzNkYtc2Vla2xv/Z28uY29tLnBuZw" alt="nextjs" width="40" height="40"/> 
+  </a>
+   <a href="https://styled-components.com/" target="_blank"> 
+    <img src="https://imgs.search.brave.com/a0oX4L9xhUsFLI08d4hj9uS3JhemaQ8YwlJeeRrA6SQ/rs:fit:800:476:1/g:ce/aHR0cHM6Ly93YXRh/YmxvZ3RyYXZlbC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMDUvc3R5bGVk/LWNvbXBvbmVudC1i/Zy5qcGc" alt="styled component" width="40" height="40"/> 
+  </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://imgs.search.brave.com/lsMQTU9FMT8wdE0Gadtha4NVUemxUvLHeZ6fibrrxp4/rs:fit:632:632:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzYzMi8xKjVR/RDhES2hPalJlLWdj/WWpvemxMTlEucG5n" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com/" target="_blank"> 
-    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <br />
+   <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://imgs.search.brave.com/fJGFsGzX4QEiDNYIsWwNeyLSEsAC1fhgfDoKBz_ZE6g/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9maXJl/YmFzZS5nb29nbGUu/Y29tL2ltYWdlcy9i/cmFuZC1ndWlkZWxp/bmVzL2xvZ28tbG9n/b21hcmsucG5n" alt="firebase" width="40" height="40"/> 
   </a>
+  <br />
+  <a href="https://www.heroku.com/home" target="_blank"> 
+    <img src="https://imgs.search.brave.com/aUvN-19FfVl769pcKvw0OtbpFHgsvXlZYO1BP2yGWdM/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5G/eDh5Z2JRQmR2ejN5/UjhZNEczUGxBSGFI/YSZwaWQ9QXBp" alt="heroku" width="40" height="40"/> 
+  </a>
+   <a href="https://vercel.com/" target="_blank"> 
+    <img src="https://imgs.search.brave.com/Ipsf1-VzfUXf9TlTzwldan6iLDy2ppQOiaPkYxOa8TI/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5t/bk1Rd2FKRnoxdGNO/Q0hrNVlLdFVBSGFI/YSZwaWQ9QXBp" alt="vercel" width="40" height="40"/> 
+  </a>
+   <a href="https://www.netlify.com/" target="_blank"> 
+    <img src="https://imgs.search.brave.com/tQR14LB23xhBA7gYngwkwS8FF0i5UKhTv41cTZu9QI4/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Fhc3dvcnRo/eS5jb20vbmV0bGlm/eV82NTAyX2xvZ29f/MTU4NjQyNTEwN196/Y2poby5wbmc" alt="netlify" width="40" height="40"/> 
+  </a>
+  <br />
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> <br/>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+ 
 </p>
 
 <!--START_SECTION:activity-->
