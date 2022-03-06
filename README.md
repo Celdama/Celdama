@@ -26,10 +26,10 @@ Want to know more about me? [Check out my twitter](https://twitter.com/CeldamaDe
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a><br/>
+  </a>
    <a href="https://sass-lang.com/" target="_blank"> 
     <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/> 
-  </a><br/>
+  </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
@@ -45,11 +45,11 @@ Want to know more about me? [Check out my twitter](https://twitter.com/CeldamaDe
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://imgs.search.brave.com/lsMQTU9FMT8wdE0Gadtha4NVUemxUvLHeZ6fibrrxp4/rs:fit:632:632:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzYzMi8xKjVR/RDhES2hPalJlLWdj/WWpvemxMTlEucG5n" alt="tailwind" width="40" height="40"/> 
   </a>
-  <br />
+
    <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://imgs.search.brave.com/fJGFsGzX4QEiDNYIsWwNeyLSEsAC1fhgfDoKBz_ZE6g/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9maXJl/YmFzZS5nb29nbGUu/Y29tL2ltYWdlcy9i/cmFuZC1ndWlkZWxp/bmVzL2xvZ28tbG9n/b21hcmsucG5n" alt="firebase" width="40" height="40"/> 
   </a>
-  <br />
+
   <a href="https://www.heroku.com/home" target="_blank"> 
     <img src="https://imgs.search.brave.com/aUvN-19FfVl769pcKvw0OtbpFHgsvXlZYO1BP2yGWdM/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5G/eDh5Z2JRQmR2ejN5/UjhZNEczUGxBSGFI/YSZwaWQ9QXBp" alt="heroku" width="40" height="40"/> 
   </a>
@@ -59,7 +59,7 @@ Want to know more about me? [Check out my twitter](https://twitter.com/CeldamaDe
    <a href="https://www.netlify.com/" target="_blank"> 
     <img src="https://imgs.search.brave.com/tQR14LB23xhBA7gYngwkwS8FF0i5UKhTv41cTZu9QI4/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Fhc3dvcnRo/eS5jb20vbmV0bGlm/eV82NTAyX2xvZ29f/MTU4NjQyNTEwN196/Y2poby5wbmc" alt="netlify" width="40" height="40"/> 
   </a>
-  <br />
+
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> <br/>
