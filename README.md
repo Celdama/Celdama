@@ -74,7 +74,16 @@ Want to know more about me? [Check out my twitter](https://twitter.com/CeldamaDe
 
 ## Current Stats
 
-![Celdama's github activity graph](https://github-readme-stats.vercel.app/api?username=celdama&hide=contribs,prs&show_icons=true&theme=great-gatsby)
+| ![Celdama's github activity graph](https://activity-graph.herokuapp.com/graph?username=celdama&theme=react-dark) |
+| :--------------------------------------------------------------------------------------------------------------: |
+
+| ![Celdama's GitHub stats](https://github-readme-stats.vercel.app/api?username=celdama&hide=contribs,prs&show_icons=true&theme=great-gatsby) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=celdama&theme=hightcontrast) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celdama&theme=great-gatsby) |
+| :-----------------------------------------------------------------------------------------------------: |
+
+<!-- ![Celdama's github activity graph](https://github-readme-stats.vercel.app/api?username=celdama&hide=contribs,prs&show_icons=true&theme=great-gatsby) -->
 
 <!--START_SECTION:activity-->
 
