@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Celdama Github Banner](./assets/banner.jpeg)](https://twitter.com/CeldamaDev)
 
 <!--START_SECTION:activity-->
 
