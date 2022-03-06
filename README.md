@@ -72,6 +72,10 @@ Want to know more about me? [Check out my twitter](https://twitter.com/CeldamaDe
  
 </p>
 
+## Current Stats
+
+![Celdama's github activity graph](https://github-readme-stats.vercel.app/api?username=celdama&hide=contribs,prs&show_icons=true&theme=great-gatsby)
+
 <!--START_SECTION:activity-->
 
 <!--
