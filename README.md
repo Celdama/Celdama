@@ -34,10 +34,10 @@ Want to know more about me? [Check out my twitter](https://twitter.com/CeldamaDe
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <a href="https://redux.js.org/" target="_blank"> 
-    <img src="https://imgs.search.brave.com/oH_ZVopOI99gXHW0pzt1NWajai2cViXIdmyMO9hk_z4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL3Jl/ZHV4anMvcmVkdXgv/bWFzdGVyL2xvZ28v/bG9nby10aXRsZS1k/YXJrLnBuZw" alt="redux" width="40" height="40"/> 
+    <img src="https://imgs.search.brave.com/82Scrq7CXwSs6ofizNH9WXymiUZFxtAZBrYM51YsCgo/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL3Jl/ZHV4anMvcmVkdXgv/bWFzdGVyL2xvZ28v/bG9nby5wbmc" alt="redux" width="40" height="40"/> 
   </a>
   <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://imgs.search.brave.com/OMIsJfsgl9KOL-UWXIVkLLAQ-IUNkU328XUl1NEKcoQ/rs:fit:300:181:1/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL04vbmV4dC1q/cy1sb2dvLTc5MjlC/Q0QzNkYtc2Vla2xv/Z28uY29tLnBuZw" alt="nextjs" width="40" height="40"/> 
+    <img src="https://imgs.search.brave.com/2jT7-iAZfebNObMMHvuG-nG_LUofCe2qeFQ5KZxyq1s/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMudmVyY2VsLmNv/bS9pbWFnZS91cGxv/YWQvdjE2MDc1NTQz/ODUvcmVwb3NpdG9y/aWVzL25leHQtanMv/bmV4dC1sb2dvLnBu/Zw" alt="nextjs" width="40" height="40"/> 
   </a>
    <a href="https://styled-components.com/" target="_blank"> 
     <img src="https://imgs.search.brave.com/a0oX4L9xhUsFLI08d4hj9uS3JhemaQ8YwlJeeRrA6SQ/rs:fit:800:476:1/g:ce/aHR0cHM6Ly93YXRh/YmxvZ3RyYXZlbC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMDUvc3R5bGVk/LWNvbXBvbmVudC1i/Zy5qcGc" alt="styled component" width="40" height="40"/> 
