@@ -1,4 +1,4 @@
-[![Celdama Github Banner](./assets/banner.jpeg)](https://twitter.com/CeldamaDev)
+[![Celdama Github Banner](./assets/banner.png)](https://twitter.com/CeldamaDev)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/celdama-dev-b834b2224/" >
